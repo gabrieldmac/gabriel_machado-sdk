@@ -1,8 +1,10 @@
 # Guide
 
-First, install your package:
+First, install your package and it's dependents:
 
 pip install -i https://test.pypi.org/simple/ lotr-sdk-liblab-gdm
+pip install requests
+pip install python-dotenv
 
 Second, import the package in your python file
 
