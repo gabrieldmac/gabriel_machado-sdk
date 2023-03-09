@@ -1,2 +1,4 @@
 prod.env
 lotr-sdk-lilab-venv
+dist
+lotr_sdk_liblab_gdm.egg-info
